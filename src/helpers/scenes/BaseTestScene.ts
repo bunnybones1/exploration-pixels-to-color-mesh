@@ -6,6 +6,7 @@ import {
   Scene,
   WebGLRenderer
 } from 'three'
+
 import device from '../../device'
 import { getUrlColor } from '../../utils/location'
 

@@ -14,7 +14,7 @@ import { addPrettyLights } from '../utils/lights'
 
 import BaseTestScene from './BaseTestScene'
 
-export default class TestLightingScene extends BaseTestScene {
+export default class TesMesh2DScene extends BaseTestScene {
   constructor() {
     super()
     addPrettyLights(this.scene, this.bgColor)

@@ -1,4 +1,5 @@
 import { Color, MeshBasicMaterial } from 'three'
+
 import { rand } from '../utils/math'
 
 const __whiteColor = new Color(1, 1, 1)
